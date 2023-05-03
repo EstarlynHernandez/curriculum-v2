@@ -1,0 +1,17 @@
+{
+    "title": "Home",
+    "className": "home",
+    "element": "div",
+    "content": {
+        "element-1": {
+            "className": "home__title",
+            "element": "h2",
+            "content": "Estarlyn's"
+        },
+        "element-2": {
+            "className": "home__title",
+            "element": "h2",
+            "content": "Portfolio"
+        }
+    }
+}

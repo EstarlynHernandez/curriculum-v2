@@ -1,0 +1,167 @@
+{
+    "title": "Home",
+    "className": "projects",
+    "element": "div",
+    "content": {
+        "element-1": {
+            "className": "project",
+            "element": "div",
+            "content": " "
+        },
+        "element-2": {
+            "className": "project",
+            "element": "a",
+            "link": "https://tasks.estyos.com",
+            "content": {
+                "child-1": {
+                    "className": "project__title",
+                    "element": "p",
+                    "content": "Task Manager"
+                },
+                "child-2": {
+                    "className": "project__img",
+                    "element": "picture",
+                    "content": {
+                        "element-1": {
+                            "className": "project__picture",
+                            "element": "img",
+                            "img": "img/working.webp",
+                            "content": ""
+                        }
+                    }
+                },
+                "child-3": {
+                    "className": "project--languages",
+                    "element": "div",
+                    "content": {
+                        "element-2": {
+                            "className": "project__lang",
+                            "element": "p",
+                            "content": "Laravel"
+                        },
+                        "element-1": {
+                            "className": "project__lang",
+                            "element": "p",
+                            "content": "PHP"
+                        },
+                        "element-3": {
+                            "className": "project__lang",
+                            "element": "p",
+                            "content": "ELOQUENT"
+                        },
+                        "element-4": {
+                            "className": "project__lang",
+                            "element": "p",
+                            "content": "JavaScript"
+                        }
+                    }
+                }
+            }
+        },
+        "element-3": {
+            "className": "project",
+            "element": "a",
+            "link": "https://shop.estyos.com",
+            "content": {
+                "child-1": {
+                    "className": "project__title",
+                    "element": "p",
+                    "content": "Shop"
+                },
+                "child-2": {
+                    "className": "project__img",
+                    "element": "picture",
+                    "content": {
+                        "element-1": {
+                            "className": "project__picture",
+                            "element": "img",
+                            "img": "img/shop.webp",
+                            "content": ""
+                        }
+                    }
+                },
+                "child-3": {
+                    "className": "project--languages",
+                    "element": "div",
+                    "content": {
+                        "element-2": {
+                            "className": "project__lang",
+                            "element": "p",
+                            "content": "Laravel"
+                        },
+                        "element-1": {
+                            "className": "project__lang",
+                            "element": "p",
+                            "content": "PHP"
+                        },
+                        "element-3": {
+                            "className": "project__lang",
+                            "element": "p",
+                            "content": "ELOQUENT"
+                        },
+                        "element-4": {
+                            "className": "project__lang",
+                            "element": "p",
+                            "content": "CSS"
+                        }
+                    }
+                }
+            }
+        },
+        "element-4": {
+            "className": "project",
+            "element": "a",
+            "link": "https://estarlyn.com",
+            "content": {
+                "child-1": {
+                    "className": "project__title",
+                    "element": "p",
+                    "content": "Curriculum v1"
+                },
+                "child-2": {
+                    "className": "project__img",
+                    "element": "picture",
+                    "content": {
+                        "element-1": {
+                            "className": "project__picture",
+                            "element": "img",
+                            "img": "img/p1.webp",
+                            "content": ""
+                        }
+                    }
+                },
+                "child-3": {
+                    "className": "project--languages",
+                    "element": "div",
+                    "content": {
+                        "element-2": {
+                            "className": "project__lang",
+                            "element": "p",
+                            "content": "Laravel"
+                        },
+                        "element-1": {
+                            "className": "project__lang",
+                            "element": "p",
+                            "content": "PHP"
+                        },
+                        "element-3": {
+                            "className": "project__lang",
+                            "element": "p",
+                            "content": "CSS"
+                        },
+                        "element-4": {
+                            "className": "project__lang",
+                            "element": "p",
+                            "content": "Blade"
+                        },
+                        "element-5": {
+                            "className": "project__lang",
+                            "element": "p",
+                            "content": "JavaScript"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
